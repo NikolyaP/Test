@@ -1,0 +1,15 @@
+E:\LastTry\Final\AutomationService\bin\Debug\AutomationService.dll.config
+E:\LastTry\Final\AutomationService\bin\Debug\AutomationService.dll
+E:\LastTry\Final\AutomationService\bin\Debug\AutomationService.pdb
+E:\LastTry\Final\AutomationService\bin\Debug\Final.dll
+E:\LastTry\Final\AutomationService\bin\Debug\Newtonsoft.Json.dll
+E:\LastTry\Final\AutomationService\bin\Debug\System.Net.Http.Formatting.dll
+E:\LastTry\Final\AutomationService\bin\Debug\Final.pdb
+E:\LastTry\Final\AutomationService\bin\Debug\Final.dll.config
+E:\LastTry\Final\AutomationService\bin\Debug\Newtonsoft.Json.xml
+E:\LastTry\Final\AutomationService\bin\Debug\System.Net.Http.Formatting.xml
+E:\LastTry\Final\AutomationService\obj\Debug\AutomationInfrastructure.csprojAssemblyReference.cache
+E:\LastTry\Final\AutomationService\obj\Debug\AutomationInfrastructure.csproj.CoreCompileInputs.cache
+E:\LastTry\Final\AutomationService\obj\Debug\AutomationInfrastructure.csproj.CopyComplete
+E:\LastTry\Final\AutomationService\obj\Debug\AutomationService.dll
+E:\LastTry\Final\AutomationService\obj\Debug\AutomationService.pdb

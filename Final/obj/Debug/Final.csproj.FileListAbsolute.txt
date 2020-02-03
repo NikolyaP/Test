@@ -1,0 +1,7 @@
+E:\LastTry\Final\Final\bin\Final.dll.config
+E:\LastTry\Final\Final\bin\Final.dll
+E:\LastTry\Final\Final\bin\Final.pdb
+E:\LastTry\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+E:\LastTry\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+E:\LastTry\Final\Final\obj\Debug\Final.dll
+E:\LastTry\Final\Final\obj\Debug\Final.pdb
